@@ -1,0 +1,16 @@
+{
+  "name": "wikic-live-server",
+  "version": "0.0.1",
+  "description": "a wikic server extension",
+  "main": "index.js",
+  "scripts": {},
+  "author": "dgeibi",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "wikic"
+  ]
+}
