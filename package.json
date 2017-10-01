@@ -1,6 +1,6 @@
 {
   "name": "wikic-live-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a wikic server extension",
   "main": "index.js",
   "scripts": {},
@@ -12,5 +12,16 @@
   "devDependencies": {},
   "keywords": [
     "wikic"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikic/wikic-live-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wikic/wikic-live-server/issues"
+  },
+  "homepage": "https://github.com/wikic/wikic-live-server#readme",
+  "peerDependencies": {
+    "wikic": "^3.0.5"
+  }
 }
